@@ -24,6 +24,10 @@
         "dist/css/bootstrap.css",
         "dist/js/bootstrap.js"
       ]
+    },"fontawesome": {
+      "main": [
+        "./css/font-awesome.css"
+      ]
     }
   }
 }
